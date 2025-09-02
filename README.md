@@ -57,3 +57,7 @@ Win 🎉 or lose 😢 … either way, see your place on the Leaderboard.
 1. Dakshayani - 2 attempts
 2. Faaiz - 3 attempts
 3. Alex - 4 attempts
+📄 License
+
+This project is open source and available under the MIT License
+.
